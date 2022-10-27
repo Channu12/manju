@@ -7,6 +7,8 @@ public class Sample {
 		
 		System.out.println("manju");
 		System.out.println("hi hello world");
+		System.out.println("repository");
+		System.out.println("git repository");
 
 	}
 
